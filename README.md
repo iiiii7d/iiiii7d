@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iiiii7d&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iiiii7d&langs_count=7&theme=dark&layout=compact&exclude_repo=conlacata)](https://github.com/anuraghazra/github-readme-stats)
+(Note: Half of my projects are in organisations, the stats above are very inaccurate)
